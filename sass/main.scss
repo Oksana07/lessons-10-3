@@ -1,0 +1,13 @@
+@import './colors';
+@import './title';
+@import './paragraf';
+
+body{
+  // background-color: var(--color-basic);//css
+
+  // scss
+  // background-color: $color-basic;
+  // background-color: $color_basic;
+  background-color: $colorBasic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

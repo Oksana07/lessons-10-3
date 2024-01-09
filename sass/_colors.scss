@@ -1,0 +1,13 @@
+// css синтаксис написання змінної
+// :root {
+//   --color-basic: rgb(255, 234, 0);
+// }
+
+// sass синтаксис написання змінної
+// $color-basic: rgb(255, 234, 0);
+// $color_basic: rgb(255, 234, 0);
+
+$colorBasic: rgb(255, 234, 0);
+$colorTitle:red;
+$colorSecondary:blue;
+
