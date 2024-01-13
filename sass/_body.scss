@@ -1,0 +1,11 @@
+body {
+  // background-color: var(--color-basic);//css
+
+  // scss
+  // background-color: $color-basic;
+  // background-color: $color_basic;
+  // background-color: $colorBasic;
+  // background-color: map-get($colors, 'basic' );
+  background-color: getColors('basic');
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

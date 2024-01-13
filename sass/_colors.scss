@@ -7,7 +7,19 @@
 // $color-basic: rgb(255, 234, 0);
 // $color_basic: rgb(255, 234, 0);
 
-$colorBasic: rgb(255, 234, 0);
-$colorTitle:red;
-$colorSecondary:blue;
+// $colorBasic: rgb(255, 234, 0);
+// $colorTitle:red;
+// $colorSecondary:blue;
+
+$colors:(
+'basic':rgb(255, 234, 0),
+'title':red,
+'secondary':blue
+);
+
+@function getColors($key){
+  @return map-get($colors, $key);
+}
+
+
 

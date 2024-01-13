@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/_title.scss","../sass/_colors.scss","../sass/_paragraf.scss","../sass/main.scss"],"names":[],"mappings":"AAAA,OACE,MCSU,ICVZ,MACC,MDUe,KEPhB,KAME,iBFDW,QEEX","file":"main.min.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_title.scss","../sass/_paragraf.scss","../sass/_body.scss"],"names":[],"mappings":"AAAA,OAGA,UCHA,MAGA,WCHA,KAQE,yBACA","file":"main.min.css"}

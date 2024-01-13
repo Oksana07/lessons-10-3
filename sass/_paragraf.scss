@@ -1,3 +1,5 @@
 .text{
- color: $colorSecondary; 
+//  color: $colorSecondary; 
+// color: map-get($colors, 'secondary');
+color: getColors('secondary');
 }

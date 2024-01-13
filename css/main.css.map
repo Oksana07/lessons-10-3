@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../sass/_title.scss","../sass/_colors.scss","../sass/_paragraf.scss","../sass/main.scss"],"names":[],"mappings":"AAAA;EACE,OCSU;;;ACVZ;EACC,ODUe;;;AEPhB;EAME,kBFDW;EEEX","file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/_title.scss","../sass/_paragraf.scss","../sass/_body.scss"],"names":[],"mappings":"AAAA;EAGA;;;ACHA;EAGA;;;ACHA;EAQE;EACA","file":"main.css"}
